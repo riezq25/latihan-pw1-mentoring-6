@@ -19,6 +19,12 @@
              <span>Dashboard</span></a>
      </li>
 
+     <li class="nav-item active">
+         <a class="nav-link" href="<?= route()['product']['beranda'] ?>">
+             <i class="fas fa-fw fa-users"></i>
+             <span>Produk</span></a>
+     </li>
+
      <!-- Divider -->
      <hr class="sidebar-divider">
 

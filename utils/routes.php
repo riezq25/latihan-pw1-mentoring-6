@@ -12,6 +12,9 @@ function route()
             'edit'      => url('/pages/galery/edit.php'),
             'update'      => url('/pages/galery/update.php'),
             'delete'    => url('/pages/galery/delete.php'),
+        ],
+        'product'   => [
+            'beranda'   => url('/pages/products/index.php')
         ]
     ];
 }
